@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | House Price Prediction</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url("{{ url_for('static', filename='h7.jpg') }}");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: fit;
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            padding-top: 100px;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+            color: #CFF800; /* Gold color for the title */
+        }
+        p {
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+        .buttons {
+            margin-top: 20px;
+        }
+        .button {
+            padding: 15px 30px;
+            font-size: 1em;
+            margin: 10px;
+            color: ##008080;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #00A5E3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to House Price Predicton</h1>
+        <p>Find accurate estimates for property prices based on location, size, and other features.</p>
+        <div class="buttons">
+            <a href="/login" class="button">Login</a>
+            <a href="/register" class="button">Register</a>
+        </div>
+    </div>
+</body>
+</html>
