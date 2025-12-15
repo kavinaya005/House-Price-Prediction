@@ -237,4 +237,5 @@ if __name__ == "_main_":
     loaded_model = load_model(model_file_path)
 
     # Predict house price
+
     predict_house_price(loaded_model)'''    
