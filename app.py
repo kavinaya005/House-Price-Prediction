@@ -160,3 +160,4 @@ if st.button("Predict Price"):
 
     except Exception as e:
         st.error(f"An error occurred: {e}")
+
