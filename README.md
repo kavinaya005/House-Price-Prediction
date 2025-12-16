@@ -11,7 +11,6 @@ The **House Price Regression Dataset** is used for this project. [Kaggle Dataset
 <img width="610" height="273" alt="image" src="https://github.com/user-attachments/assets/958d2f32-3993-4254-b8d1-6f1b471fa75b" />
 
 
-
 To ensure the data quality, preprocessing was performed to handle missing values and clean the dataset.
 
 <img width="546" height="319" alt="image" src="https://github.com/user-attachments/assets/fbede9a2-9875-47c6-ad2e-21c8dc17ad52" />
@@ -67,14 +66,15 @@ The project includes two separate web deployments to demonstrate different appli
 <img width="849" height="383" alt="image" src="https://github.com/user-attachments/assets/528bfd1f-a50f-4249-8d3b-74c08f43a3ce" />
 
 
-
 🟢Flask: Similarly like in Streamlit, a House Price Prediction System is developed using "Flask" as the backend framework, with HTML and CSS for creating an engaging and responsive user interface. Additionally, "XAMPP server" is utilized to manage and store users' login credentials, ensuring seamless functionality and data storage in a *localhost environment*.
 
 <img width="747" height="326" alt="image" src="https://github.com/user-attachments/assets/4c068341-0f7f-4afd-a383-a0268979e413" />
 <img width="739" height="315" alt="image" src="https://github.com/user-attachments/assets/845e286d-bc9b-48a4-85a6-49837f29986e" />
 <img width="748" height="315" alt="image" src="https://github.com/user-attachments/assets/61d48987-af76-4f47-8f2f-d814df693254" />
-<img width="474" height="301" alt="image" src="https://github.com/user-attachments/assets/d4925e2c-66cc-40de-bfd8-9cd7e38c8cbc" />
-<img width="510" height="302" alt="image" src="https://github.com/user-attachments/assets/b7984fd1-9929-4b83-909a-723986ad4ef1" />
+<img width="750" height="315" alt="image" src="https://github.com/user-attachments/assets/aaf12bb2-0b19-4738-b738-1a377ba88eb4" />
+<img width="750" height="315" alt="Screenshot 2025-01-03 192931" src="https://github.com/user-attachments/assets/a41c3959-a9f2-4cc7-a0c3-0afffeacab14" />
+
+
 
 
 
