@@ -6,10 +6,10 @@ I developed this project during my internship at **Elysium Technologies Private 
 
 🔺Data collection and Preprocessing:
  
-<img width="546" height="319" alt="image" src="https://github.com/user-attachments/assets/42daa110-cf21-46c0-bd48-c846707cedfb" />
 The **House Price Regression Dataset** is used for this project. [Kaggle Dataset link: https://www.kaggle.com/datasets/prokshitha/home-value-insights]
 
 <img width="610" height="273" alt="image" src="https://github.com/user-attachments/assets/958d2f32-3993-4254-b8d1-6f1b471fa75b" />
+
 
 
 To ensure the data quality, preprocessing was performed to handle missing values and clean the dataset.
@@ -37,13 +37,25 @@ The model’s performance was evaluated on the test data using common regression
 🔵Mean Squared Error (MSE)
 🔵R-squared (R²) score
 
+<img width="426" height="125" alt="image" src="https://github.com/user-attachments/assets/0cb63a3e-b387-4914-be38-a0fcfcc4bf4e" />
+
+
 Additionally, a scatter plot was generated comparing actual vs predicted house prices to visually assess the model’s accuracy.
+
+<img width="492" height="330" alt="image" src="https://github.com/user-attachments/assets/72a3a3a4-792f-4c3d-bccf-87b214121870" />
+
 
 🔺Exploratory Data Analysis (EDA)
 
-Correlation between features and target was examined using a correlation matrix and heatmap. 
+Correlation between features and target was examined using a correlation matrix and heatmap.
+
+<img width="1037" height="822" alt="image" src="https://github.com/user-attachments/assets/d5f9d482-fc72-4a05-8172-4a963706e0da" />
+
 	
 A scatter plot between square footage and house price was also created to understand feature impact.
+
+<img width="538" height="375" alt="image" src="https://github.com/user-attachments/assets/2a366161-21f8-40c5-83e0-8b3ebbdcb1d3" />
+
 
 🔺Web Deployment:
 
@@ -51,7 +63,23 @@ The project includes two separate web deployments to demonstrate different appli
 
 🟡Streamlit: A house prediction application is developed using "Streamlit" for an interactive and user-friendly interface, styled with CSS to enhance visual appeal and usability.
 
+<img width="789" height="448" alt="image" src="https://github.com/user-attachments/assets/48d0d139-87a4-4bad-9693-7a8983e92395" />
+<img width="849" height="383" alt="image" src="https://github.com/user-attachments/assets/528bfd1f-a50f-4249-8d3b-74c08f43a3ce" />
+
+
+
 🟢Flask: Similarly like in Streamlit, a House Price Prediction System is developed using "Flask" as the backend framework, with HTML and CSS for creating an engaging and responsive user interface. Additionally, "XAMPP server" is utilized to manage and store users' login credentials, ensuring seamless functionality and data storage in a *localhost environment*.
+
+<img width="747" height="326" alt="image" src="https://github.com/user-attachments/assets/4c068341-0f7f-4afd-a383-a0268979e413" />
+<img width="739" height="315" alt="image" src="https://github.com/user-attachments/assets/845e286d-bc9b-48a4-85a6-49837f29986e" />
+<img width="748" height="315" alt="image" src="https://github.com/user-attachments/assets/61d48987-af76-4f47-8f2f-d814df693254" />
+<img width="474" height="301" alt="image" src="https://github.com/user-attachments/assets/d4925e2c-66cc-40de-bfd8-9cd7e38c8cbc" />
+<img width="510" height="302" alt="image" src="https://github.com/user-attachments/assets/b7984fd1-9929-4b83-909a-723986ad4ef1" />
+
+
+
+
+
 
 
 	
