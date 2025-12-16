@@ -1,1 +1,1 @@
-
+House Price Prediction Using Artificial Intelligence 🏠🤖 project focuses on developing an AI-driven model for predicting house prices, addressing a critical need in the real estate industry for accurate and reliable pricing tools. By leveraging machine learning, particularly linear regression, the project estimates house prices based on key features such as square footage, number of bedrooms, number of bathrooms, year of construction, lot size, garage size, and neighborhood quality.
