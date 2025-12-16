@@ -6,10 +6,15 @@ I developed this project during my internship at **Elysium Technologies Private 
 
 🔺Data collection and Preprocessing:
  
-The **House Price Regression Dataset** is used for this project. 
-[Kaggle Dataset link: https://www.kaggle.com/datasets/prokshitha/home-value-insights]
+The **House Price Regression Dataset** is used for this project. [Kaggle Dataset link: https://www.kaggle.com/datasets/prokshitha/home-value-insights]
+
+<img width="610" height="273" alt="image" src="https://github.com/user-attachments/assets/958d2f32-3993-4254-b8d1-6f1b471fa75b" />
+
 
 To ensure the data quality, preprocessing was performed to handle missing values and clean the dataset.
+
+<img width="546" height="319" alt="image" src="https://github.com/user-attachments/assets/fbede9a2-9875-47c6-ad2e-21c8dc17ad52" />
+
 
 🔺Feature selection:
 
@@ -26,6 +31,7 @@ The trained model was saved to a file (house_price_model.joblib) using the "jobl
 🔺Model Evaluation
 
 The model’s performance was evaluated on the test data using common regression metrics:
+
 🔵Mean Absolute Error (MAE)
 🔵Mean Squared Error (MSE)
 🔵R-squared (R²) score
