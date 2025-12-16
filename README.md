@@ -48,7 +48,7 @@ Additionally, a scatter plot was generated comparing actual vs predicted house p
 
 Correlation between features and target was examined using a correlation matrix and heatmap.
 
-<img width="1037" height="822" alt="image" src="https://github.com/user-attachments/assets/d5f9d482-fc72-4a05-8172-4a963706e0da" />
+<img width="538" height="375" alt="image" src="https://github.com/user-attachments/assets/d5f9d482-fc72-4a05-8172-4a963706e0da" />
 
 	
 A scatter plot between square footage and house price was also created to understand feature impact.
