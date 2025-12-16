@@ -6,38 +6,38 @@ I developed this project during my internship at **Elysium Technologies Private 
 
 🔺Data collection and Preprocessing:
  
-	The House Price Regression Dataset is used for this project [Kaggle Dataset link: https://www.kaggle.com/datasets/prokshitha/home-value-insights]
-	To ensure the data quality, preprocessing was performed to handle missing values and clean the dataset.
+The **House Price Regression** Dataset is used for this project [Kaggle Dataset link: https://www.kaggle.com/datasets/prokshitha/home-value-insights]
+To ensure the data quality, preprocessing was performed to handle missing values and clean the dataset.
 
 🔺Feature selection:
 
-	The target variable is the "house price". The data was split into features (X) and target (y), then further divided into training and testing sets in *80:20* proportion.
+The target variable is the "house price". The data was split into features (X) and target (y), then further divided into training and testing sets in *80:20* proportion.
 
 🔺Model Training:
 
-	A "Linear Regression model" was trained using the training dataset to learn the relationship between house features and their prices.
+A "Linear Regression model" was trained using the training dataset to learn the relationship between house features and their prices.
 
 🔺Model Saving:
 	
-	The trained model was saved to a file (house_price_model.joblib) using the "joblib" library for later reuse without retraining.
+The trained model was saved to a file (house_price_model.joblib) using the "joblib" library for later reuse without retraining.
 
 🔺Model Evaluation
 
-	The model’s performance was evaluated on the test data using common regression metrics:
+The model’s performance was evaluated on the test data using common regression metrics:
 			🔵Mean Absolute Error (MAE)
 			🔵Mean Squared Error (MSE)
 			🔵R-squared (R²) score
 
-	Additionally, a scatter plot was generated comparing actual vs predicted house prices to visually assess the model’s accuracy.
+Additionally, a scatter plot was generated comparing actual vs predicted house prices to visually assess the model’s accuracy.
 
 🔺Exploratory Data Analysis (EDA)
 
-	Correlation between features and target was examined using a correlation matrix and heatmap. 
-	A scatter plot between square footage and house price was also created to understand feature impact.
+Correlation between features and target was examined using a correlation matrix and heatmap. 
+A scatter plot between square footage and house price was also created to understand feature impact.
 
 🔺Web Deployment:
 
-	The project includes two separate web deployments to demonstrate different application interfaces and user management:
+The project includes two separate web deployments to demonstrate different application interfaces and user management:
 
 			🟡Streamlit: A house prediction application is developed using "Streamlit" for an interactive and user-friendly interface, styled with CSS to enhance visual appeal and usability.
 
