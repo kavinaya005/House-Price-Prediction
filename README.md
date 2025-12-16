@@ -6,6 +6,7 @@ I developed this project during my internship at **Elysium Technologies Private 
 
 🔺Data collection and Preprocessing:
  
+<img width="546" height="319" alt="image" src="https://github.com/user-attachments/assets/42daa110-cf21-46c0-bd48-c846707cedfb" />
 The **House Price Regression Dataset** is used for this project. [Kaggle Dataset link: https://www.kaggle.com/datasets/prokshitha/home-value-insights]
 
 <img width="610" height="273" alt="image" src="https://github.com/user-attachments/assets/958d2f32-3993-4254-b8d1-6f1b471fa75b" />
